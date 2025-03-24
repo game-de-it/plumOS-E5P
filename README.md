@@ -33,6 +33,7 @@ http://gamemt.net/index.php/2024/11/11/e6-e5-plus-%E5%AE%89%E5%8D%93linux%E7%B3%
 - Portmasterの起動に関するバグとコントローラーレイアウトの修正
 - drasticのキーバインドの修正
 - シンプルな外見のplumOS用のESテーマ(時刻が表示されます)
+- Toolsセクションを英語に翻訳
 - SSH接続のアカウント情報
   - ユーザ名は `root` 、パスワードは `plumos`
 
