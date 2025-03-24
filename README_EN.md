@@ -37,6 +37,7 @@ We appreciate the wonderful information provided by the community.
 - Fixed Portmaster startup issues and controller layout
 - Fixed drastic key bindings
 - A simple ES theme for plumOS (time is displayed)
+- Translated the Tools section into English
 - SSH connection account information
   - Username: `root`, Password: `plumos`
 
