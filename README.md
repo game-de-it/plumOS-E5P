@@ -20,7 +20,7 @@ http://gamemt.net/index.php/2024/11/11/e6-e5-plus-%E5%AE%89%E5%8D%93linux%E7%B3%
 
 
 # 対応機種
-- GmameMT E5 Plus
+- GameMT E5 Plus
 
 # ダウンロード
 [「Releasesページ」からSDイメージファイルをダウンロードできます](https://github.com/game-de-it/plumOS-E5P/releases)
